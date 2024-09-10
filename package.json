@@ -1,6 +1,6 @@
 {
     "name": "v.path",
-    "version": "2.3.41",
+    "version": "2.3.42",
     "description": "v.path: Envision c://path, reimagined for a neural and networked environment.",
     "main": "index.js",
     "scripts": {
